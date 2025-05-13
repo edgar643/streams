@@ -28,7 +28,7 @@ Given an array, find the second largest number.
 
     public static void main(String[] args) {
         int arr1[] = {12, 35, 1, 10, 34, 1};
-       int arr2[] = {20, 5, 20};
+        int arr2[] = {20, 5, 20};
         int arr3[] = {8, 8, 8};
         System.out.println("Second largest number is: " + getSecondLargest(arr1));
         System.out.println("Second largest number is: " + getSecondLargest(arr2));
